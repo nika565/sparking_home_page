@@ -199,11 +199,7 @@ iframe{
     height: 40px;
     margin-top: -10px;
   }
-
-}
-
-@media(max-width: 400px){
-
+  
   #txt_footer{
    font-size: 15px;
    margin: 0px;
@@ -226,6 +222,7 @@ iframe{
  }
 
 }
+
 
 @media(max-width: 286px){
   .buttons button{
