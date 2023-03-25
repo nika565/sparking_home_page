@@ -179,7 +179,7 @@ iframe{
 }
 
 
-@media(max-width: 535px){
+@media(max-width: 635px){
    #endereco_topo{
     font-size: 12px;
   }
